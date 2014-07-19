@@ -9,6 +9,7 @@ package freunde.model;
 /**
  *
  * @author Robert
+ * Data model for friends application
  */
 public class Freund {
     private int ID;
